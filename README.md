@@ -1,1 +1,1 @@
-# grad-countdown
+# Graduation countdown
